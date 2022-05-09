@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- :zap: I love math, statistics, data, business
+- :zap: I love math, statistics, data & coding
 - 📖 I learn & teach data science topics
 - 💰 I like doing financial analysis and algorithmic trading
 - 🚛 I have experience in cost optimisation of supply chain process
