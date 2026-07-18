@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bala — I work at the intersection of data science, machine learning, and quantitative analysis. I enjoy building models, writing reproducible notebooks, and sharing what I learn through projects and articles.
+I'm Bala Baskar — I work at the intersection of data science, machine learning, and quantitative analysis. I enjoy building models, writing reproducible notebooks, and sharing what I learn through projects and articles.
 
 Highlights
 - 🔢 Strong foundation in mathematics and statistics for AI/ML
@@ -17,31 +17,21 @@ Projects & Notebooks
   - https://github.com/bala-baskar/deepml_my_solutions
 - deep_learning_path — Curated learning path and notebooks for deep learning
   - https://github.com/bala-baskar/deep_learning_path
-- deploying-machine-learning-models — Examples for deploying ML models (Udemy course repo)
-  - https://github.com/bala-baskar/deploying-machine-learning-models
 - genai_langchain — Experiments with generative AI and LangChain
   - https://github.com/bala-baskar/genai_langchain
 - genai_specialization — Notebooks and notes from generative AI specialization
   - https://github.com/bala-baskar/genai_specialization
 - kaggle_ai_courses — Course materials and notebooks from Kaggle AI courses
   - https://github.com/bala-baskar/kaggle_ai_courses
-- leetcode_problem_solutions — Algorithm and data-structure practice solutions
-  - https://github.com/bala-baskar/leetcode_problem_solutions
 - LLM_foundations — Foundational notebooks and experiments for large language models
   - https://github.com/bala-baskar/LLM_foundations
-- mathematics_for_aiml — Mathematics reference notebooks for AI/ML
-  - https://github.com/bala-baskar/mathematics_for_aiml
-- my_kaggle — A collection of my Kaggle activities and competition work
-  - https://github.com/bala-baskar/my_kaggle
-- nlp_specialization — Curated list of resources and notebooks for NLP
-  - https://github.com/bala-baskar/nlp_specialization
 - quants_analyst — Quantitative analysis, financial modeling and algorithmic research
   - https://github.com/bala-baskar/quants_analyst
 
 Writing & Articles
 - I write about data science, time complexity, and applied analytics. A few articles:
-  - Statistical approach to find Cricket player IN-form — https://medium.com/@balabaskar.official/a-statistical-approach-to-find-cricket-player-in-form-using-r-part-i-ec60c5056e57
-  - Beginner guide to Time Complexity — https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/
+  - ![Statistical approach to find Cricket player IN-form](https://medium.com/@balabaskar.official/a-statistical-approach-to-find-cricket-player-in-form-using-r-part-i-ec60c5056e57)
+  - ![Beginner guide to Time Complexity](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)
 
 Get in touch
 - I'm open to collaboration on data science, deep learning, and quantitative projects. Feel free to open an issue or reach out via GitHub.
